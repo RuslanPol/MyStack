@@ -1,6 +1,6 @@
 using System;
 
-namespace TestMyStack.Properties
+namespace TestMyStack
 {
     public class MyStack<T>
     {

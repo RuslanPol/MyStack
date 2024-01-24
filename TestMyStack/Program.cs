@@ -1,5 +1,5 @@
 ﻿using System;
-using TestMyStack.Properties;
+using TestMyStack;
 
 namespace TestMyStack
 {
